@@ -1,0 +1,2 @@
+# StyleCoin
+STYLE
