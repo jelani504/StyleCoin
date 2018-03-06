@@ -1,0 +1,22 @@
+{
+  "name": "stylecoin",
+  "version": "1.0.0",
+  "description": "I don't know. StyleCoin. That shits self explanatory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelani504/StyleCoin.git"
+  },
+  "author": "Jelani Hankins",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jelani504/StyleCoin/issues"
+  },
+  "homepage": "https://github.com/jelani504/StyleCoin#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.30"
+  }
+}
